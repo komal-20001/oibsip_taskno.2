@@ -1,0 +1,38 @@
+      
+nav{
+    list-style-type: none;
+    overflow: hidden;
+    background-color:#011f4b;
+    
+    }
+    .hp a{
+    display: block;
+    color:white;
+    
+    text-align:center;
+    font-size:25px;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: inline;
+    }
+    .hp {
+      float: left;
+    }
+    .hp a:hover {
+    background-color:#005b96;
+    }
+    .q{
+        margin-top: 8%;
+        }
+        .r{
+           position: absolute ;
+           left: 42%;
+           font-size: 20px;
+        }
+    h1{
+      margin-top: 20%;
+      font-size: 50px;
+    }
+    p{
+      font-size: 25px;
+    }
